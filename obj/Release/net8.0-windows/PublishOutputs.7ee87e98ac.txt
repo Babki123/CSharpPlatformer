@@ -1,0 +1,5 @@
+G:\Prog\C#\Final\Platformer\BasicPlatformGame.exe
+G:\Prog\C#\Final\Platformer\BasicPlatformGame.dll
+G:\Prog\C#\Final\Platformer\BasicPlatformGame.deps.json
+G:\Prog\C#\Final\Platformer\BasicPlatformGame.runtimeconfig.json
+G:\Prog\C#\Final\Platformer\BasicPlatformGame.pdb

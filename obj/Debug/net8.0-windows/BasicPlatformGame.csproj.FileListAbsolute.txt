@@ -1,0 +1,17 @@
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\bin\Debug\net8.0-windows\BasicPlatformGame.exe
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\bin\Debug\net8.0-windows\BasicPlatformGame.deps.json
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\bin\Debug\net8.0-windows\BasicPlatformGame.runtimeconfig.json
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\bin\Debug\net8.0-windows\BasicPlatformGame.dll
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\bin\Debug\net8.0-windows\BasicPlatformGame.pdb
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.Form1.resources
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.csproj.GenerateResource.cache
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.GeneratedMSBuildEditorConfig.editorconfig
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.AssemblyInfoInputs.cache
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.AssemblyInfo.cs
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.csproj.CoreCompileInputs.cache
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.dll
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\refint\BasicPlatformGame.dll
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.pdb
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.genruntimeconfig.cache
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\ref\BasicPlatformGame.dll
+G:\Prog\C#\Test\BasicPlatformGame\BasicPlatformGame\obj\Debug\net8.0-windows\BasicPlatformGame.Properties.Resources.resources
